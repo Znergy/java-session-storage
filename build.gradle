@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-archivesBaseName = "java-change-machine"
+archivesBaseName = "java-session-storage"
 version = '1.0'
 mainClassName = "App"
 
